@@ -1,7 +1,9 @@
 
-# THIS CODE IS MODIFIED IN ORDER TO PERFORM STREAMING SPEECH RECOGNITION ON LOCAL FILE
+THIS CODE IS MODIFIED IN ORDER TO PERFORM STREAMING SPEECH RECOGNITION ON LOCAL FILE
+===================================================
 
-Change a variable named 'PATH' on trancribe.py into a path of your local audio file.
+In order to recognize your local audio file, Change a variable named 'PATH' on trancribe.py into your file path.
+
 It shows a time taken to receive a final result of speech recognition.
 
 ------------------------------

@@ -8,6 +8,7 @@ It shows a time taken to receive a final result of speech recognition.
 
 ------------------------------
 
+
 =========================================
 ORIGINAL README: Watson Streaming Speech to Text Example
 =========================================

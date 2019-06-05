@@ -1,5 +1,13 @@
+
+# THIS CODE IS MODIFIED IN ORDER TO PERFORM STREAMING SPEECH RECOGNITION ON LOCAL FILE
+
+Change a variable named 'PATH' on trancribe.py into a path of your local audio file.
+It shows a time taken to receive a final result of speech recognition.
+
+------------------------------
+
 =========================================
- Watson Streaming Speech to Text Example
+ORIGINAL README: Watson Streaming Speech to Text Example
 =========================================
 
 The following is an example of using Watson to real time transcribe

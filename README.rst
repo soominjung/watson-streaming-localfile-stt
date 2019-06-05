@@ -6,12 +6,20 @@ In order to recognize your local audio file, Change a variable named 'PATH' on t
 
 It shows a time taken to receive a final result of speech recognition.
 
+Expected Output
+===============
+
+::
+
+    $ python transcribe.py
+    Transcript:이러한 감정도 오면은 유대감을 더 강하게 만든다 
+    Latency: 3.3767147064208984 sec
+
 ------------------------------
 
 
-=========================================
 ORIGINAL README: Watson Streaming Speech to Text Example
-=========================================
+============================
 
 The following is an example of using Watson to real time transcribe
 from Speech to Text using the websockets streaming API.
